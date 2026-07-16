@@ -1,4 +1,224 @@
 {
-  "last_updated": "2026-07-16 10:55",
-  "workouts": []
+  "last_updated": "2026-07-16 11:25",
+  "workouts": [
+    {
+      "date": "2026-07-01",
+      "type": "重訓",
+      "quarter_visit_no": 1,
+      "exercises": [],
+      "note": "忘記記錄項目"
+    },
+    {
+      "date": "2026-07-07",
+      "type": "重訓",
+      "quarter_visit_no": 2,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "大腿屈曲機",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 57
+            },
+            {
+              "reps": 12,
+              "weight_kg": 57
+            },
+            {
+              "reps": 12,
+              "weight_kg": 57
+            },
+            {
+              "reps": 12,
+              "weight_kg": 57
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "name": "大腿外展機",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 70
+            },
+            {
+              "reps": 12,
+              "weight_kg": 70
+            },
+            {
+              "reps": 12,
+              "weight_kg": 70
+            },
+            {
+              "reps": 12,
+              "weight_kg": 70
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "name": "腹部訓練機",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            }
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "type": "重訓",
+      "quarter_visit_no": 3,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "坐姿划船機",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "name": "腹部訓練機",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            }
+          ],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "type": "重訓",
+      "quarter_visit_no": 4,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "15分鐘"
+        },
+        {
+          "name": "臀推",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "name": "胸推",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ],
+          "notes": ""
+        },
+        {
+          "name": "腹部訓練機",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            }
+          ],
+          "notes": ""
+        }
+      ]
+    }
+  ]
 }
