@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 12:59",
+  "last_updated": "2026-07-16 14:10",
   "next_session_plan": {
     "updated": "2026-07-14",
     "note": "最近三次（7/7、7/13、7/14）上半身跟下半身分佈算平衡，核心每次都有練，可以維持現在這種輪替方式。這一季手臂單獨訓練幾乎沒有，可以開始安全加入——二頭肌訓練機、三頭伸展機保守起步先2-3組，重量參考4-6月練過的基準。單獨只練手臂肌群覆蓋太少，加一項核心補齊，維持這次訓練的完整度。",
@@ -11,6 +11,1782 @@
     ]
   },
   "workouts": [
+    {
+      "date": "2026-01-03",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 1,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "35分鐘"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-04",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 2,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "暖身25分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 72
+            },
+            {
+              "reps": 12,
+              "weight_kg": 72
+            },
+            {
+              "reps": 12,
+              "weight_kg": 72
+            },
+            {
+              "reps": 12,
+              "weight_kg": 72
+            }
+          ]
+        },
+        {
+          "name": "軀幹旋轉訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 55
+            },
+            {
+              "reps": 12,
+              "weight_kg": 55
+            },
+            {
+              "reps": 12,
+              "weight_kg": 55
+            },
+            {
+              "reps": 12,
+              "weight_kg": 55
+            }
+          ]
+        },
+        {
+          "name": "胸推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 42.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 42.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            }
+          ]
+        },
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "收操15分鐘"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-05",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 3,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "30分鐘"
+        },
+        {
+          "name": "坐姿划船機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-11",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 4,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "35分鐘"
+        },
+        {
+          "name": "背部下拉",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 72
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 5,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "30分鐘"
+        },
+        {
+          "name": "軀幹旋轉訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 65
+            },
+            {
+              "reps": 12,
+              "weight_kg": 65
+            },
+            {
+              "reps": 12,
+              "weight_kg": 65
+            },
+            {
+              "reps": 12,
+              "weight_kg": 65
+            }
+          ]
+        },
+        {
+          "name": "大腿屈曲外展機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 57
+            },
+            {
+              "reps": 12,
+              "weight_kg": 57
+            },
+            {
+              "reps": 12,
+              "weight_kg": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 6,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "35分鐘"
+        },
+        {
+          "name": "坐姿划船機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 72
+            },
+            {
+              "reps": 12,
+              "weight_kg": 72
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 7,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "35分鐘"
+        },
+        {
+          "name": "臀推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "+9*12, +18*12（原始寫法如此，重量記法不確定，未列入重量趨勢比較）",
+          "sets": []
+        }
+      ]
+    },
+    {
+      "date": "2026-01-18",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 8,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "35分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            }
+          ]
+        },
+        {
+          "name": "大腿屈曲外展機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 63
+            },
+            {
+              "reps": 12,
+              "weight_kg": 63
+            },
+            {
+              "reps": 12,
+              "weight_kg": 63
+            },
+            {
+              "reps": 12,
+              "weight_kg": 63
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-20",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 9,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "腿推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 174.1
+            },
+            {
+              "reps": 12,
+              "weight_kg": 174.1
+            },
+            {
+              "reps": 12,
+              "weight_kg": 174.1
+            },
+            {
+              "reps": 12,
+              "weight_kg": 174.1
+            }
+          ]
+        },
+        {
+          "name": "軀幹旋轉訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 65
+            },
+            {
+              "reps": 12,
+              "weight_kg": 65
+            },
+            {
+              "reps": 12,
+              "weight_kg": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-21",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 10,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "15分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            }
+          ]
+        },
+        {
+          "name": "腿推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 11,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "25分鐘"
+        },
+        {
+          "name": "坐姿划船機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        },
+        {
+          "name": "臀推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 12,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "35分鐘"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-24",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 13,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "25分鐘"
+        },
+        {
+          "name": "大腿外展機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 60
+            },
+            {
+              "reps": 12,
+              "weight_kg": 60
+            },
+            {
+              "reps": 12,
+              "weight_kg": 60
+            },
+            {
+              "reps": 12,
+              "weight_kg": 60
+            }
+          ]
+        },
+        {
+          "name": "啞鈴划船",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_lb": 35
+            },
+            {
+              "reps": 12,
+              "weight_lb": 40
+            },
+            {
+              "reps": 12,
+              "weight_lb": 40
+            },
+            {
+              "reps": 12,
+              "weight_lb": 40
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 77
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-26",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 14,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "25分鐘"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-28",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 15,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "胸推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 47.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 47.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 47.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-30",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 16,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "肩推機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_lb": 50
+            },
+            {
+              "reps": 12,
+              "weight_lb": 50
+            },
+            {
+              "reps": 12,
+              "weight_lb": 60
+            },
+            {
+              "reps": 12,
+              "weight_lb": 60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 17,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "25分鐘"
+        },
+        {
+          "name": "羅馬椅",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 11.3
+            },
+            {
+              "reps": 12,
+              "weight_kg": 11.3
+            },
+            {
+              "reps": 12,
+              "weight_kg": 11.3
+            },
+            {
+              "reps": 12,
+              "weight_kg": 11.3
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 18,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘(16)"
+        },
+        {
+          "name": "腿推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 174.1
+            },
+            {
+              "reps": 12,
+              "weight_kg": 174.1
+            },
+            {
+              "reps": 12,
+              "weight_kg": 174.1
+            },
+            {
+              "reps": 12,
+              "weight_kg": 174.1
+            }
+          ]
+        },
+        {
+          "name": "坐姿划船機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-08",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 19,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "30分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-09",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 20,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "30分鐘"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-11",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 21,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "65分鐘"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 22,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "15分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            }
+          ]
+        },
+        {
+          "name": "背部下拉",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-16",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 23,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "15分鐘"
+        },
+        {
+          "name": "胸推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-23",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 24,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 25,
+      "exercises": [
+        {
+          "name": "胸推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            },
+            {
+              "reps": 12,
+              "weight_kg": 45
+            }
+          ]
+        },
+        {
+          "name": "腿推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            }
+          ]
+        },
+        {
+          "name": "肩推機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_lb": 60
+            },
+            {
+              "reps": 12,
+              "weight_lb": 60
+            },
+            {
+              "reps": 12,
+              "weight_lb": 60
+            },
+            {
+              "reps": 12,
+              "weight_lb": 60
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-02",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 26,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "15分鐘"
+        },
+        {
+          "name": "背部下拉",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            },
+            {
+              "reps": 12,
+              "weight_kg": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 27,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "15分鐘"
+        },
+        {
+          "name": "腿推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 82.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 82.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 82.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 82.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 28,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "25分鐘"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-05",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 29,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "臀推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            },
+            {
+              "reps": 12,
+              "weight_kg": 92.5
+            }
+          ]
+        },
+        {
+          "name": "坐姿划船機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 30,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 81
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            }
+          ]
+        },
+        {
+          "name": "胸推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-17",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 31,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "30分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            }
+          ]
+        },
+        {
+          "name": "腿推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 144
+            },
+            {
+              "reps": 12,
+              "weight_kg": 144
+            },
+            {
+              "reps": 12,
+              "weight_kg": 144
+            },
+            {
+              "reps": 12,
+              "weight_kg": 144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 32,
+      "exercises": [
+        {
+          "name": "登階機",
+          "sets": [],
+          "notes": "20分鐘"
+        },
+        {
+          "name": "胸推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 33,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "45分鐘"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 34,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "15分鐘"
+        },
+        {
+          "name": "背部下拉",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 35,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "15分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            }
+          ]
+        },
+        {
+          "name": "坐姿划船機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        },
+        {
+          "name": "腿推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            }
+          ]
+        },
+        {
+          "name": "啞鈴聳肩",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_lb": 45
+            },
+            {
+              "reps": 12,
+              "weight_lb": 45
+            },
+            {
+              "reps": 12,
+              "weight_lb": 45
+            },
+            {
+              "reps": 12,
+              "weight_lb": 45
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-31",
+      "type": "重訓",
+      "quarter": "2026-Q1",
+      "quarter_visit_no": 36,
+      "exercises": [
+        {
+          "name": "飛輪",
+          "sets": [],
+          "notes": "10分鐘"
+        },
+        {
+          "name": "腹部訓練機",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            },
+            {
+              "reps": 12,
+              "weight_kg": 86
+            }
+          ]
+        },
+        {
+          "name": "腿推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            },
+            {
+              "reps": 12,
+              "weight_kg": 150
+            }
+          ]
+        },
+        {
+          "name": "胸推",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            },
+            {
+              "reps": 12,
+              "weight_kg": 50
+            }
+          ]
+        },
+        {
+          "name": "哈克深蹲",
+          "notes": "",
+          "sets": [
+            {
+              "reps": 12,
+              "weight_kg": 81.6
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81.6
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81.6
+            },
+            {
+              "reps": 12,
+              "weight_kg": 81.6
+            }
+          ]
+        },
+        {
+          "name": "登階機",
+          "sets": [],
+          "notes": "15分鐘"
+        }
+      ]
+    },
     {
       "date": "2026-04-08",
       "type": "重訓",
