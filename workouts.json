@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 11:25",
+  "last_updated": "2026-07-16 11:38",
   "workouts": [
     {
       "date": "2026-07-01",
@@ -15,8 +15,20 @@
       "exercises": [
         {
           "name": "飛輪",
-          "sets": [],
-          "notes": "20分鐘"
+          "segments": [
+            {
+              "resistance": 14,
+              "duration_min": 15
+            },
+            {
+              "resistance": 8,
+              "duration_min": 5
+            }
+          ],
+          "avg_hr": 136,
+          "active_kcal": 164,
+          "total_kcal": 201,
+          "notes": ""
         },
         {
           "name": "大腿屈曲機",
@@ -93,8 +105,20 @@
       "exercises": [
         {
           "name": "飛輪",
-          "sets": [],
-          "notes": "20分鐘"
+          "segments": [
+            {
+              "resistance": 14,
+              "duration_min": 15
+            },
+            {
+              "resistance": 8,
+              "duration_min": 5
+            }
+          ],
+          "avg_hr": 124,
+          "active_kcal": 117,
+          "total_kcal": 148,
+          "notes": ""
         },
         {
           "name": "坐姿划船機",
@@ -149,8 +173,20 @@
       "exercises": [
         {
           "name": "飛輪",
-          "sets": [],
-          "notes": "15分鐘"
+          "segments": [
+            {
+              "resistance": 14,
+              "duration_min": 10
+            },
+            {
+              "resistance": 8,
+              "duration_min": 5
+            }
+          ],
+          "avg_hr": 132,
+          "active_kcal": 134,
+          "total_kcal": 166,
+          "notes": ""
         },
         {
           "name": "臀推",
