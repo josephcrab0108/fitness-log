@@ -147,6 +147,12 @@ body {
   border: 1px solid var(--border);
   border-radius: 6px;
 }
+.plan-subitems {
+  list-style: none; margin-top: 5px; padding-left: 12px;
+  font-size: 12px; color: var(--muted);
+}
+.plan-subitems li { padding: 1px 0; background: none; border: none; }
+.plan-subitems li::before { content: "└ "; }
 
 .empty-state { color: var(--muted); font-size: 13px; text-align: center; margin-top: 60px; }
 
@@ -167,7 +173,7 @@ body {
 
 <header class="sticky-header">
   <h2>健身紀錄</h2>
-  <span class="updated-chip mono">更新 2026-09-29 20:12</span>
+  <span class="updated-chip mono">更新 2026-09-29 20:15</span>
 </header>
 
 <div class="container">
@@ -177,8 +183,8 @@ body {
         <span class="plan-updated mono">2026-09-29</span>
       </div>
       <p class="plan-note">上次練胸推＋腿後側，這次換深蹲＋背，順便補核心。時間少就做前三項。</p>
-      <div class="plan-section"><span class="plan-section-title">暖身</span><ul class="plan-items mono"><li>飛輪 主段 10 分（阻力 14）＋緩和 5 分（阻力 8）</li></ul></div><div class="plan-section"><span class="plan-section-title">核心</span><ul class="plan-items mono"><li>原地垂直跳 3 下 × 2 組</li><li>槓鈴背蹲舉 70kg × 6 下 × 4 組</li><li>背部下拉 41kg × 12 下 × 4 組</li><li>彈力帶 Pallof press × 10 下 × 3 組／邊</li></ul></div><div class="plan-section"><span class="plan-section-title">狀態好可加做</span><ul class="plan-items mono"><li>腹部訓練機 81kg × 12 下 × 3 組</li><li>肩推 50lb × 12 下 × 2 組</li></ul></div>
-      <div class="plan-conditions"><span class="plan-conditions-title">情境調整</span><ul class="plan-cond-items"><li>背蹲舉熱身：空槓 10 下 → 40kg 5 下 → 60kg 3 下</li><li>深蹲架沒空：背蹲舉改哈克深蹲 115kg × 12 下 × 4 組，Pallof press 改腹部訓練機</li><li>腿還痠：垂直跳跳過，深蹲改哈克深蹲 108kg × 3 組</li><li>當天有練球：不練腿</li></ul></div>
+      <div class="plan-section"><span class="plan-section-title">暖身</span><ul class="plan-items mono"><li>飛輪 主段 10 分（阻力 14）＋緩和 5 分（阻力 8）</li></ul></div><div class="plan-section"><span class="plan-section-title">核心</span><ul class="plan-items mono"><li>原地垂直跳 3 下 × 2 組</li><li>槓鈴背蹲舉 70kg × 6 下 × 4 組<ul class="plan-subitems"><li>熱身：空槓 × 10 下</li><li>熱身：40kg × 5 下</li><li>熱身：60kg × 3 下</li></ul></li><li>背部下拉 41kg × 12 下 × 4 組</li><li>彈力帶 Pallof press × 10 下 × 3 組／邊</li></ul></div><div class="plan-section"><span class="plan-section-title">狀態好可加做</span><ul class="plan-items mono"><li>腹部訓練機 81kg × 12 下 × 3 組</li><li>肩推 50lb × 12 下 × 2 組</li></ul></div>
+      <div class="plan-conditions"><span class="plan-conditions-title">情境調整</span><ul class="plan-cond-items"><li>深蹲架沒空：背蹲舉改哈克深蹲 115kg × 12 下 × 4 組，Pallof press 改腹部訓練機</li><li>腿還痠：垂直跳跳過，深蹲改哈克深蹲 108kg × 3 組</li><li>當天有練球：不練腿</li></ul></div>
     </div>
 <div class="card">
       <div class="card-header">
