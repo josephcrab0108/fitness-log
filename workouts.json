@@ -1,20 +1,21 @@
 {
-  "last_updated": "2026-09-29 21:33",
+  "last_updated": "2026-10-02 20:39",
   "next_session_plan": {
-    "updated": "2026-09-29",
+    "updated": "2026-10-02",
     "note": "下次換上肢推＋腿後側，保留抗旋轉核心。時間少先做前兩項。",
     "warmup": [
       "飛輪主段 10 分鐘（阻力 14）＋緩和 5 分鐘（阻力 8）"
     ],
     "core_items": [
       "胸推 42.5kg × 12 下 × 4 組",
-      "彈力帶 Pallof press × 10 下 × 3 組／邊",
+      "彈力帶 Pallof press（35 lb）× 10 下 × 3 組／邊",
       "腿部屈曲機 50kg × 12 下 × 3 組"
     ],
     "bonus_if_extra": [
       "肩推 50lb × 12 下 × 2 組"
     ],
     "conditions": [
+      "35 lb 彈力帶還沒買到：Pallof press 改腹部訓練機 81kg × 12 下 × 3 組。",
       "腿還痠或當天練球：跳過腿部屈曲機。",
       "核心還痠：Pallof press 減阻力、縮到 2 組；有痛就停。"
     ]
