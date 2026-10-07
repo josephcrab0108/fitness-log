@@ -1,25 +1,29 @@
 {
-  "last_updated": "2026-10-07 20:44",
+  "last_updated": "2026-10-07 22:28",
   "next_session_plan": {
     "updated": "2026-10-07",
-    "note": "10/7（三）晚上，Day 3：單邊＋旋轉。9:30 前練完，最後用輕鬆騎車收操。",
+    "note": "下一次輪 Day 1：下肢推＋上肢拉，保留落地控制與核心。時間少先做前三項。",
     "warmup": [
-      "飛輪 阻力 8 輕鬆騎 5 分鐘"
+      "飛輪阻力 8 × 5 分鐘"
     ],
     "core_items": [
-      "彈力帶旋轉爆發拋擲 20 lb × 5 下 × 3 組／邊",
-      "保加利亞分腿蹲 自體重 × 8 下 × 3 組／邊",
-      "彈力帶 Pallof press 35 lb × 10 下 × 3 組／邊",
-      "單手啞鈴划船 18kg × 10 下 × 3 組／邊",
-      "收操：飛輪 阻力 8 輕鬆騎 5–10 分鐘"
+      "原地垂直跳 3 下 × 4 組",
+      {
+        "text": "槓鈴深蹲 70 kg × 6 下 × 4 組",
+        "sub": [
+          "熱身：空槓 × 10 下、40 kg × 5 下、60 kg × 3 下"
+        ]
+      },
+      "背部下拉 41 kg × 12 下 × 4 組",
+      "死蟲式 8 下 × 3 組／邊",
+      "收操：飛輪阻力 8 × 5–10 分鐘"
     ],
-    "bonus_if_extra": [],
+    "bonus_if_extra": [
+      "坐姿划船機 41 kg × 12 下 × 4 組"
+    ],
     "conditions": [
-      "超過 9:30 還沒做完：剩下的跳過，直接收操。",
-      "啞鈴划船 18kg 太輕：下一組換 22kg。",
-      "旋轉拋擲 20 lb 拉到底還太輕：換 35 lb，能全速轉就好。",
-      "Pallof press 35 lb 推直時身體被拉著轉：站近一點。",
-      "旋轉拋擲：握住把手不放，全速轉、慢慢回。"
+      "腿仍痠或當天練球：跳躍、深蹲延後。",
+      "背部仍痠：下拉與划船延後。"
     ]
   },
   "workouts": [
@@ -5949,6 +5953,116 @@
               "reps": 12
             }
           ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "type": "重訓",
+      "quarter": "2026-Q4",
+      "quarter_visit_no": 2,
+      "note": "旋轉爆發拋擲與 Pallof press 使用滑輪器材，不是彈力帶。Pallof press 比較吃力但可以承受；旋轉爆發拋擲仍覺得偏輕。",
+      "coach_feedback": "完成 Day 3 的單邊、旋轉與抗旋轉訓練。保加利亞分腿蹲每邊 8 下 × 3 組；單手啞鈴划船 45 lb、每邊 12 下 × 3 組，建立這輪紀錄。滑輪旋轉拋擲由 10 kg 加至 15 kg，仍覺得偏輕；滑輪 Pallof press 15 kg 則吃力但可承受，兩個動作分別建立基準，不與彈力帶標示重量直接比較。\n\n暖身及收操飛輪合計 15 分 41 秒、6.53 km，均設定阻力 8。本次未提供 Watch 心率，不作心率趨勢判斷。",
+      "exercises": [
+        {
+          "name": "飛輪",
+          "phase": "暖身",
+          "duration_sec": 341,
+          "segments": [
+            {
+              "resistance": 8,
+              "duration_min": 5.68
+            }
+          ],
+          "avg_watts": 99,
+          "avg_rpm": 66,
+          "peak_watts": 116,
+          "distance_km": 2.5,
+          "notes": "暖身精確時長 5 分 41 秒（上方分鐘取兩位小數）；機台 5，運動模式 5:00＋緩和 0:41。主段 2.22km，緩和 0.28km；功率與 RPM 為主段值。阻力全段依本人回報記 8，未提供 Watch 資料。"
+        },
+        {
+          "name": "保加利亞分腿蹲",
+          "reps_per_side": 8,
+          "sets_per_side": 3,
+          "load_type": "bodyweight",
+          "notes": "自體重，每邊 8 下 × 3 組。"
+        },
+        {
+          "name": "滑輪旋轉爆發拋擲",
+          "sets": [
+            {
+              "weight_kg": 10,
+              "reps": 8
+            },
+            {
+              "weight_kg": 15,
+              "reps": 8
+            },
+            {
+              "weight_kg": 15,
+              "reps": 8
+            }
+          ],
+          "per_side": true,
+          "notes": "以上為每邊組數；10 kg × 8 下 × 1 組、15 kg × 8 下 × 2 組／邊。滑輪器材標示重量，感覺仍偏輕。"
+        },
+        {
+          "name": "滑輪 Pallof press",
+          "sets": [
+            {
+              "weight_kg": 15,
+              "reps": 10
+            },
+            {
+              "weight_kg": 15,
+              "reps": 10
+            },
+            {
+              "weight_kg": 15,
+              "reps": 10
+            }
+          ],
+          "per_side": true,
+          "notes": "每邊 10 下 × 3 組；滑輪器材標示 15 kg，比較吃力但可以承受。"
+        },
+        {
+          "name": "單手啞鈴划船",
+          "sets": [
+            {
+              "weight_lb": 45,
+              "reps": 12
+            },
+            {
+              "weight_lb": 45,
+              "reps": 12
+            },
+            {
+              "weight_lb": 45,
+              "reps": 12
+            }
+          ],
+          "per_side": true,
+          "notes": "每邊 12 下 × 3 組。"
+        },
+        {
+          "name": "飛輪",
+          "phase": "收操",
+          "duration_sec": 600,
+          "segments": [
+            {
+              "resistance": 8,
+              "duration_min": 5
+            },
+            {
+              "resistance": 8,
+              "duration_min": 5
+            }
+          ],
+          "avg_watts": 85,
+          "avg_rpm": 58,
+          "peak_watts": 103,
+          "distance_km": 4.03,
+          "notes": "收操 10 分鐘，機台 5：運動模式 5:00＋緩和 5:00，分段距離 2.09／1.94km。功率與 RPM 為運動模式欄數值；全段設定阻力 8。未提供 Watch 資料。"
         }
       ]
     }
