@@ -1,35 +1,29 @@
 {
-  "last_updated": "2026-10-23 18:58",
+  "last_updated": "2026-10-23 19:02",
   "next_session_plan": {
     "updated": "2026-10-23",
-    "note": "停練兩週後第一練，Day 1：深蹲＋背。重量和組數先降一點。",
+    "note": "日本回來第一練，輪 Day 2：上肢推＋髖主導。停了 9 天，組數先 3 組。",
     "warmup": [
       "飛輪 主段 10 分鐘（阻力 14）＋緩和 5 分鐘（阻力 8）"
     ],
     "core_items": [
+      "啞鈴擺盪 35 lb × 10 下 × 3 組",
       {
-        "text": "爆發深蹲 40 kg × 3 下 × 3 組（上來全速）",
+        "text": "羅馬尼亞硬舉 90 lb × 10 下 × 3 組",
         "sub": [
           "熱身：空槓 × 10 下"
         ]
       },
-      {
-        "text": "槓鈴深蹲 70 kg × 6 下 × 3 組",
-        "sub": [
-          "熱身：50 kg × 5 下",
-          "熱身：60 kg × 3 下"
-        ]
-      },
-      "背部下拉 41 kg × 12 下 × 3 組",
-      "滑輪 Pallof press 15 kg × 10 下 × 3 組／邊"
-    ],
-    "bonus_if_extra": [
+      "胸推 45 kg × 12 下 × 3 組",
       "腹部訓練機 81 kg × 12 下 × 3 組"
     ],
+    "bonus_if_extra": [
+      "肩推 50 lb × 12 下 × 3 組"
+    ],
     "conditions": [
-      "70 kg 很輕鬆：最後一組加到 75 kg。",
-      "晚上練：爆發深蹲拿掉，熱身縮成 5 分鐘，最後騎車收操。",
-      "隔天腿很痠是正常的，下一練照排。"
+      "都很輕鬆：下一練回到 4 組。",
+      "晚上練：擺盪拿掉，熱身縮成 5 分鐘，最後騎車收操。",
+      "硬舉或擺盪時下背緊或痛：停，改腿部屈曲機 50 kg × 12 下 × 3 組。"
     ]
   },
   "workouts": [
@@ -6077,6 +6071,99 @@
           "total_kcal": 108
         }
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "type": "重訓",
+      "quarter": "2026-Q4",
+      "quarter_visit_no": 3,
+      "coach_feedback": "槓鈴深蹲 80kg × 12 下 × 2 組，比 9/29 的 70kg × 6 下多了 10kg，次數也翻倍，是回歸自由槓以來最好的一次，已經回到你以前 90–100kg 的水準附近。背部下拉從 41kg 加到 42.5kg、4 組做滿。滑輪 Pallof press 15kg 跟 10/7 一樣，持平。飛輪是晚上版的輕鬆騎（阻力 8），不拿來比心肺。",
+      "exercises": [
+        {
+          "name": "飛輪",
+          "segments": [
+            {
+              "resistance": 8,
+              "duration_min": 5
+            },
+            {
+              "resistance": 8,
+              "duration_min": 5
+            }
+          ],
+          "avg_hr": 113,
+          "active_kcal": 72,
+          "total_kcal": 94,
+          "distance_km": 4.46,
+          "avg_rpm": 67,
+          "avg_watts": 100,
+          "peak_watts": 120,
+          "notes": "晚上版輕鬆騎：前 5 分阻力 8、後 5 分緩和。機台主段 2.23km／100W／RPM67，總計 101W／RPM68。兩張照片 EXIF 2026-10-14 20:52，機台 4。心率取自 Apple Watch（20:42–20:55），耗力 3（輕鬆）。"
+        },
+        {
+          "name": "槓鈴深蹲",
+          "sets": [
+            {
+              "weight_kg": 50,
+              "reps": 12
+            },
+            {
+              "weight_kg": 70,
+              "reps": 12
+            },
+            {
+              "weight_kg": 80,
+              "reps": 12
+            },
+            {
+              "weight_kg": 80,
+              "reps": 12
+            }
+          ],
+          "notes": "50、70 可能是漸進熱身組，照回報全記。"
+        },
+        {
+          "name": "背部下拉",
+          "sets": [
+            {
+              "weight_kg": 42.5,
+              "reps": 12
+            },
+            {
+              "weight_kg": 42.5,
+              "reps": 12
+            },
+            {
+              "weight_kg": 42.5,
+              "reps": 12
+            },
+            {
+              "weight_kg": 42.5,
+              "reps": 12
+            }
+          ]
+        },
+        {
+          "name": "滑輪 Pallof press",
+          "sets": [
+            {
+              "weight_kg": 15,
+              "reps": 10
+            },
+            {
+              "weight_kg": 15,
+              "reps": 10
+            },
+            {
+              "weight_kg": 15,
+              "reps": 10
+            }
+          ],
+          "per_side": true,
+          "notes": "每邊 15kg × 10 下 × 3 組。"
+        }
+      ],
+      "note": "10/23 補登（當天忘了傳）。"
     }
   ]
 }
